@@ -7,3 +7,5 @@ This is an example repository for training.
 Caro
 Thomas
 Dave
+
+Happy Monday 
